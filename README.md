@@ -14,13 +14,13 @@
 <p align="center">
   <a href="https://instagram.com/_mriganka_777">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/mriganka-shekhar-nath">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  </a>&nbsp;&nbsp;
     <a href="https://twitter.com/@Mriganka6969">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://discord.gg/https://discord.com/invite/bU8juQGa">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
