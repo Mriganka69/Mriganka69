@@ -25,12 +25,14 @@
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
-## Stuff I Know
+
+## Connect with Me
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,py,pytorch,sklearn,tensorflow,figma,flask,opencv,git,github,mysql,ps" />
   </a>
 </p>
+
 ## Profile Stats
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Mriganka69&theme=whatsapp-dark&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
