@@ -29,7 +29,7 @@
 ## Connect with Me
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,py,pytorch,sklearn,tensorflow,figma,flask,opencv,git,github,mysql,ps" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,nodejs,py,pytorch,sklearn,tensorflow,figma,flask,opencv,git,github,mysql,ps" />
   </a>
 </p>
 
