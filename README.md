@@ -21,7 +21,7 @@
     <a href="https://twitter.com/@Mriganka6969">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>&nbsp;&nbsp;
-  <a href="https://discord.gg/https://discord.com/invite/bU8juQGa">
+  <a href="https://discord.gg/SKmypJdRb5">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
